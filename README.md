@@ -52,16 +52,12 @@
 
 ###
 
-<h3 align="center">Total Views</h3>
+<h3 align="center">✨ Total Views ✨</h3>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/hushgames/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/hushgames/hushgames/output/snake.svg" alt="Snake animation" />
 
 ###
